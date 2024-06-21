@@ -8,3 +8,13 @@
 body{
     background-color: #91DDCF;
 }
+
+.container-holder{
+    width: 45%;
+    margin: auto;
+    height: fit-content;
+    margin-top: 20vh;
+    background-color: white;
+    padding: 2vh 2vh;
+    border-radius: 5px;
+}
