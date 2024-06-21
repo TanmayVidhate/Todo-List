@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    font-family: 'Gilroy';
 }
 
 body{
@@ -17,4 +17,9 @@ body{
     background-color: white;
     padding: 2vh 2vh;
     border-radius: 5px;
+}
+
+.main-title{
+    font-size: 1.5vw;
+    font-weight: bold;
 }
