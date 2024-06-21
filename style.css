@@ -22,4 +22,24 @@ body{
 .main-title{
     font-size: 1.5vw;
     font-weight: bold;
+    margin: 0.3vw;
+}
+
+input[type=text]{
+    margin: 0.3vw;
+    width: 80%;
+    padding: 1vw 1vw;
+    border: none;
+    border-radius: 50px;
+    background: rgb(203, 203, 203);
+}
+
+button{
+    padding: 1vw 1vw;
+    border-radius: 40px;
+    border: none;
+    width: 16%;
+    color: white;
+    font-weight: bold;
+    background-color: orangered;
 }
