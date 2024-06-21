@@ -25,6 +25,10 @@ body{
     margin: 0.3vw;
 }
 
+.row{
+    margin-top: 1vw;
+}
+
 input[type=text]{
     margin: 0.3vw;
     width: 80%;
